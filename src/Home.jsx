@@ -1,5 +1,5 @@
 import React from "react";
-import Carousel from "./components/Carousal";
+//import Carousel from "./components/Carousal";
 // import photo2 from "../assets/photo2.jpeg";
 // import photo1 from "../assets/photo1.jpeg";
 

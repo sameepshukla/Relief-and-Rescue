@@ -5,7 +5,7 @@ import Home from "./Home";
 import Volunteer from "./components/Volunteer";
 import Agency from "./components/Agency";
 import { Route, Routes } from "react-router-dom";
-import Carousel from "./components/Carousal";
+//import Carousel from "./components/Carousal";
 
 const App = () => {
   return (
